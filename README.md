@@ -2,7 +2,7 @@
 
 Users can create accounts, login, swipe on tinder profiles, and message their matches 1-on-1 in real time.
 
-## Click the image to watch a demo featuring Fiona & Shrek
+## Click the image to watch a demo featuring Fiona & Shrek :^)
 
 [<img src="https://github.com/Kamal2079/Tinder-Inspired-Dating-Site/blob/main/Home%20Screen.jpg" width="600">](https://drive.google.com/file/d/1Vr9u7-PsRoJYKh-YDJpq27BHHsG3HYUv/view?usp=sharing)
 
